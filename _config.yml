@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Adeel Akram"
 title_separator          : "-"
 name                     : &name "Adeel Akram"
-description              : &description "AI for Physics"
+description              : &description "AI4HEP"
 url                      : https://a-akram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a-akram/a-akram.github.io"
